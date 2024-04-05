@@ -27,9 +27,9 @@ streamlit run app.py
 ```
 ## Screenshots
 
-![User Interface]()
-![Working of Web Application]()
-![Final Output of web application]()
+![User Interface](interface.png)
+![Working of Web Application](working.png)
+![Final Output of web application](output.png)
 
 
 ## Contributing
